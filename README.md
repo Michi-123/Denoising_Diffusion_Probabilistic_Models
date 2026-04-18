@@ -6,13 +6,16 @@ Fork from [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-
 
 ## 肖像画
 # Using [nuigurumi/basil_mix](https://huggingface.co/nuigurumi/basil_mix)
+###
 model_id="nuigurumi/basil_mix"
 vae = AutoencoderKL.from_pretrained("stabilityai/sd-vae-ft-mse")
 ![img1](https://github.com/Michi-123/Denoising_Diffusion_Probabilistic_Models/blob/main/img/vae1/vae1_01.png)
 ![img1](https://github.com/Michi-123/Denoising_Diffusion_Probabilistic_Models/blob/main/img/vae1/vae1_02.png)
 ![img1](https://github.com/Michi-123/Denoising_Diffusion_Probabilistic_Models/blob/main/img/vae1/vae1_03.png)
 
-vae 変更なし
+
+### vae 変更なし
+
 ![img1](https://github.com/Michi-123/Denoising_Diffusion_Probabilistic_Models/blob/main/img/vae2/vae2_01.png)
 ![img1](https://github.com/Michi-123/Denoising_Diffusion_Probabilistic_Models/blob/main/img/vae2/vae2_02.png)
 ![img1](https://github.com/Michi-123/Denoising_Diffusion_Probabilistic_Models/blob/main/img/vae2/vae2_03.png)
