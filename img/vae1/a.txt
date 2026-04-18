@@ -1,1 +1,3 @@
 
+model_id="nuigurumi/basil_mix"
+vae = AutoencoderKL.from_pretrained("stabilityai/sd-vae-ft-mse")
