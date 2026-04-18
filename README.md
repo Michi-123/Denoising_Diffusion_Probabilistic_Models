@@ -4,7 +4,7 @@ Fork from [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-
 ## Udemy
 [画像生成ＡＩの理論と実践：Stable Diffusion の中では何が起こっているのか、イラストで解説](https://www.udemy.com/course/stable-diffusion-and-rogic/?srsltid=AfmBOoqUNTIcsNqPcYCjoTyKOFpsW3KwB3BqQ-6dky4ieoL_B3jPr8NM)
 
-## 肖像画
+## Portrait
 # Using [nuigurumi/basil_mix](https://huggingface.co/nuigurumi/basil_mix)
 ###
 model_id="nuigurumi/basil_mix"
